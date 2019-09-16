@@ -1,3 +1,5 @@
+AlmaZone : An Alumni Management System for tracking the alumni of the colleges and schools.
+
 ## setup
 ```bash
 virtualevn venv
